@@ -112,3 +112,23 @@ header .logo {
   display: inline-block;
   margin-top: 69px;
 }
+
+.main-content .top-content {
+	margin-bottom: 15px;
+}
+
+.main-content .top-content .text-content {
+  width: 410px;
+  display: inline-block;
+  /* margin-right: 34px; */
+}
+
+.main-content .bottom-content {
+	margin-top: 15px;
+}
+
+.main-content .bottom-content .text-content {
+  width: 275px;
+  display: inline-block;
+  margin-right: 12px;
+}
